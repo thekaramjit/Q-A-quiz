@@ -1,0 +1,21 @@
+.qaQuiz {
+    margin: 11px 0px 25px 0px;
+    font-size: 58px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.coloredDiv {
+    margin-left: 4%;
+    width: 159px;
+    height: 31px;
+    font-size: 18px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.bossColoredDiv {
+    margin-left: 4%;
+}

@@ -1,0 +1,23 @@
+.wrongAnswer{
+    background-color: rgba(255, 147, 147, 0.341) !important;
+    color: black !important;
+}
+.rightAnswer{
+    background-color: rgb(0 147 5 / 45%) !important;
+        color: white !important;
+}
+.skipped{
+    background-color: rgb(143 231 255 / 25%) !important;
+    color: black !important;
+}
+.addAnotherOption{
+    background-color: rgb(62 94 63 / 22%) !important;
+    color: black !important;
+}
+.bullet{
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    background-color: red;
+    margin-left: 10px;
+}
